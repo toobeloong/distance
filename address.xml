@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<traffic>
+<branch>
+  <branch_code>北京4</branch_code>
+	<branch_tel>010-59103898</branch_tel>
+	<branch_address>北京市通州区台湖镇江场村江场物流园</branch_address>
+	<branch_coordinate>116.615961,39.84838</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>北京5</branch_code>
+	<branch_tel>010-82625744</branch_tel>
+	<branch_address>北京市海淀区中关村北大街174号</branch_address>
+	<branch_coordinate>116.323488,39.99255</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>天津2</branch_code>
+	<branch_tel>022-27984978</branch_tel>
+	<branch_address>天津市西青区西青物流D区206号</branch_address>
+	<branch_coordinate>117.08916,39.15733</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>天津3</branch_code>
+	<branch_tel>022-27439319</branch_tel>
+	<branch_address>天津市南开区白堤路百脑汇北侧200米</branch_address>
+	<branch_coordinate>117.164429,39.122838</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>上海6</branch_code>
+	<branch_tel>021-33527186</branch_tel>
+	<branch_address>上海市松江区荣乐东路1715号</branch_address>
+	<branch_coordinate>121.26726,31.022771</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>上海7</branch_code>
+	<branch_tel>021-55231293</branch_tel>
+	<branch_address>上海市杨浦区军工路1438号5号</branch_address>
+	<branch_coordinate>121.552483,31.314871</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>上海8</branch_code>
+	<branch_tel>021-57198388</branch_tel>
+	<branch_address>上海市奉贤区南桥镇环城南路1345号</branch_address>
+	<branch_coordinate>121.451908,30.907416</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>上海9</branch_code>
+	<branch_tel>021-69779079</branch_tel>
+	<branch_address>上海市青浦区嘉松中路4188弄299号</branch_address>
+	<branch_coordinate>121.224735,31.194323</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>上海10</branch_code>
+	<branch_tel>0512-57079893</branch_tel>
+	<branch_address>昆山市陆家镇市浦路东侧白杨湾物流中心二期B区28号</branch_address>
+	<branch_coordinate>121.023227,31.346854</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>济南2</branch_code>
+	<branch_tel>0635-8420644</branch_tel>
+	<branch_address>聊城市站前街雪糕厂对面</branch_address>
+	<branch_coordinate>115.954321,36.470351</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>济南3</branch_code>
+	<branch_tel>13245418745</branch_tel>
+	<branch_address>济南工业南路325号汽车东站院内</branch_address>
+	<branch_coordinate>117.083801,36.67686</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>无锡</branch_code>
+	<branch_tel>0510-88552318</branch_tel>
+	<branch_address>无锡市新区梅村镇张公路60号</branch_address>
+	<branch_coordinate>120.433613,31.575881</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>广州6</branch_code>
+	<branch_tel></branch_tel>
+	<branch_address>广州市海珠区新滘东路石榴岗东大街B24档</branch_address>
+	<branch_coordinate>113.357615,23.08523</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>杭州</branch_code>
+	<branch_tel>0571-88777851</branch_tel>
+	<branch_address>杭州市杭海路1836号速达物流园</branch_address>
+	<branch_coordinate>120.295575,30.349912</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>苏州</branch_code>
+	<branch_tel>0512-88950304</branch_tel>
+	<branch_address>苏州市金阊区金筑街588号传化物流园L717号</branch_address>
+	<branch_coordinate>120.569685,31.357609</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>南通</branch_code>
+	<branch_tel>0513-86221456</branch_tel>
+	<branch_address>南通市通州区兴东镇孙李桥村西七组云天物流园</branch_address>
+	<branch_coordinate>120.998575,32.055802</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>无锡2</branch_code>
+	<branch_tel>0510-66755261</branch_tel>
+	<branch_address>无锡市锡陆路287号</branch_address>
+	<branch_coordinate>120.231122,31.602681</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>南通2</branch_code>
+	<branch_tel>0513-80125668</branch_tel>
+	<branch_address>南通市海安县胡集镇腾龙物流园</branch_address>
+	<branch_coordinate>120.391891,32.534782</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>南京</branch_code>
+	<branch_tel>13276611444</branch_tel>
+	<branch_address>南京江宁科学园樵歌路10号</branch_address>
+	<branch_coordinate>118.909319,31.936004</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>北京6</branch_code>
+	<branch_tel>010-52291523</branch_tel>
+	<branch_address>北京市朝阳区将台乡北岗子甲10号</branch_address>
+	<branch_coordinate>116.539487,39.983206</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>常州</branch_code>
+	<branch_tel>0519-85781806</branch_tel>
+	<branch_address>常州市钟楼区城西物流市场17幢3号</branch_address>
+	<branch_coordinate>119.905689,31.782688</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>无锡3</branch_code>
+	<branch_tel>0510-83633828</branch_tel>
+	<branch_address>无锡市锡港路17号</branch_address>
+	<branch_coordinate>120.364753,31.638879</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>杭州2</branch_code>
+	<branch_tel></branch_tel>
+	<branch_address></branch_address>
+	<branch_coordinate></branch_coordinate>
+</branch>
+<branch>
+	<branch_code>苏州2</branch_code>
+	<branch_tel></branch_tel>
+	<branch_address></branch_address>
+	<branch_coordinate></branch_coordinate>
+</branch>
+<branch>
+	<branch_code>常州2</branch_code>
+	<branch_tel></branch_tel>
+	<branch_address>镇江市润州区金山物流园内7016</branch_address>
+	<branch_coordinate>119.381241,32.178361</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>青岛4</branch_code>
+	<branch_tel>0532-86948615</branch_tel>
+	<branch_address>黄岛开发区淮河西路宝丰物流园C区1号</branch_address>
+	<branch_coordinate>120.162819,36.038318</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>青岛5</branch_code>
+	<branch_tel>0532-87730512</branch_tel>
+	<branch_address>青岛市城阳区青威路北端大周村工业园</branch_address>
+	<branch_coordinate>120.421091,36.310784</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>济南</branch_code>
+	<branch_tel></branch_tel>
+	<branch_address>济南市天桥区北外环288号全顺物流大市场</branch_address>
+	<branch_coordinate>117.026423,36.723004</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>青岛</branch_code>
+	<branch_tel>0532-66733741</branch_tel>
+	<branch_address>青岛市城阳区黑龙江中路流亭物流园F区-6号</branch_address>
+	<branch_coordinate>120.413996,36.270252</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>上海3</branch_code>
+	<branch_tel>021-59993508</branch_tel>
+	<branch_address>上海市嘉定区澄浏中路3376号</branch_address>
+	<branch_coordinate>121.282028,31.397333</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>上海5</branch_code>
+	<branch_tel>021-20922337</branch_tel>
+	<branch_address>上海市浦东新区航头镇富航路82号</branch_address>
+	<branch_coordinate>121.6038,31.038191</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>北京2</branch_code>
+	<branch_tel>010-58038339</branch_tel>
+	<branch_address>北京市丰台区新发地汉龙物流中心南C区67号</branch_address>
+	<branch_coordinate>116.354416,39.825338</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>北京3</branch_code>
+	<branch_tel>010-52389819</branch_tel>
+	<branch_address>北京市大兴区五环金州物流中心商33号</branch_address>
+	<branch_coordinate>116.426324,39.772205</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>广州2</branch_code>
+	<branch_tel>020-81555017</branch_tel>
+	<branch_address>广州市荔湾区芳村大道西滘口街48号</branch_address>
+	<branch_coordinate>113.208551,23.121025</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>广州4</branch_code>
+	<branch_tel>020-37718909</branch_tel>
+	<branch_address>广州市花都区狮岭镇狮岭大道东67栋21</branch_address>
+	<branch_coordinate>113.195552,23.447804</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>广州5</branch_code>
+	<branch_tel>020-29178036</branch_tel>
+	<branch_address>广州市天河区天源路820号</branch_address>
+	<branch_coordinate>113.36281,23.188282</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>上海</branch_code>
+	<branch_tel>021-54396095</branch_tel>
+	<branch_address>上海市闵行区联友路1658号</branch_address>
+	<branch_coordinate>121.276671,31.23249</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>广州</branch_code>
+	<branch_tel>020-62198749</branch_tel>
+	<branch_address>广州市白云区安发货运市场A18栋</branch_address>
+	<branch_coordinate>113.214915,23.235249</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>北京</branch_code>
+	<branch_tel>010-61204267</branch_tel>
+	<branch_address>北京市大兴区黄村镇京良路神龙丰物流园B区15号</branch_address>
+	<branch_coordinate>116.279134,39.780886</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>上海2</branch_code>
+	<branch_tel>021-50339067</branch_tel>
+	<branch_address>上海市浦东新区金桥镇唐陆路390号</branch_address>
+	<branch_coordinate>121.633116,31.259103</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>上海4</branch_code>
+	<branch_tel>021-33527186</branch_tel>
+	<branch_address>上海市松江区荣乐东路1715号</branch_address>
+	<branch_coordinate>121.26726,31.022771</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>青岛2</branch_code>
+	<branch_tel>0532-80693635</branch_tel>
+	<branch_address>青岛市李沧区安顺路28号</branch_address>
+	<branch_coordinate>120.388091,36.242697</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>青岛3</branch_code>
+	<branch_tel>0532-87298186</branch_tel>
+	<branch_address>青岛市胶州西路330号皮衣城北门</branch_address>
+	<branch_coordinate>119.983149,36.297641</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>广州3</branch_code>
+	<branch_tel>020-87436855</branch_tel>
+	<branch_address>广州市白云区太和镇建业路锦邦物流市场A2137</branch_address>
+	<branch_coordinate>113.371411,23.298958</branch_coordinate>
+</branch>
+<branch>
+	<branch_code>天津</branch_code>
+	<branch_tel>022-58986598</branch_tel>
+	<branch_address>天津市北辰区华北集团物流园F区20号库</branch_address>
+	<branch_coordinate>117.234736,39.236756</branch_coordinate>
+</branch>
+</traffic>
